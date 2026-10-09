@@ -1,38 +1,71 @@
-# Hey, I'm Ashwa Karthik 👋
+# 👋 Hey, I'm Ashwa Karthik
 
-### 🛡️ Cybersecurity | Python | Linux | AI
+### 🧠 Polymath in Progress | Engineer | Cybersecurity Enthusiast | AI Explorer
 
-I'm an aspiring cybersecurity professional passionate about
-ethical hacking, security research, and AI-powered automation.
+> Exploring the intersection of technology, engineering,
+> intelligence, and innovation.
 
-I enjoy exploring systems, building practical tools, and
-learning through hands-on projects.
+I'm a multidisciplinary technology enthusiast passionate
+about understanding how things work, building practical
+solutions, and exploring ideas across different fields.
 
-💻 Currently building and exploring:
-- 🔎 Cybersecurity reconnaissance tools
-- 🤖 AI-powered automation
-- 🚗 Automotive cybersecurity
-- 🐍 Python security projects
+My interests span cybersecurity, artificial intelligence,
+software development, electronics, robotics, networking,
+and experimental engineering.
 
-### 🛠️ Technologies & Tools
+I believe the most interesting innovations happen when
+different disciplines come together.
 
-- **Languages:** Python, C, C++
-- **Operating Systems:** Linux, Kali Linux
-- **Cybersecurity:** Reconnaissance, security assessment
-- **Automation:** Python scripting, APIs, n8n
-- **Interests:** AI security, ethical hacking, defensive security
+## 🧭 My Seven Domains
 
-### 🚀 Featured Projects
+🛡️ Cybersecurity & Ethical Hacking
+🤖 Artificial Intelligence & Automation
+💻 Software Development & Programming
+⚙️ Electronics & Embedded Systems
+🔬 Robotics & Intelligent Automation
+🌐 Networking & Linux Systems
+🚀 Innovation, Research & Experimentation
 
-- 🔎 **CyberRecon** — A modular Python reconnaissance framework.
-- 🤖 **AI Assistant** — Exploring AI-powered assistant development.
-- 🚗 **CAN-Sentinel** — Automotive ECU intrusion detection project
-  currently under development.
+## 🛠️ Technologies I Explore
 
-### 🎯 My Goal
+- Languages: Python, C, C++
+- Systems: Linux, Kali Linux
+- Security: Reconnaissance, security assessment
+- AI: AI tools, assistant development, automation
+- Electronics: Arduino, ESP32, sensors
+- Automation: Python scripting, APIs, n8n
 
-To build practical security solutions, strengthen my technical
-skills, and contribute to the cybersecurity community.
+## 🚀 Selected Projects
+
+### 🔎 ASHWA CYBERRECON
+A modular Python-based cybersecurity reconnaissance framework.
+
+### 🤖 AI Assistant
+Exploring locally run AI models and assistant automation.
+
+### 📧 Email Threat Scanner
+An email threat-analysis workflow built using n8n.
+
+### 🚗 CAN-Sentinel
+An automotive ECU intrusion detection project
+currently under development.
+
+## 🧠 My Philosophy
+
+Learn across disciplines.
+Build through experimentation.
+Connect ideas.
+Solve meaningful problems.
+
+## 🎯 Current Mission
+
+To become a multidisciplinary engineer who combines
+cybersecurity, AI, and engineering to build useful,
+innovative, and secure technologies.
+
+---
+
+*"Curiosity across disciplines. Innovation without boundaries."*
 
 ### 🤝 Let's Connect
 
