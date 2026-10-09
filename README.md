@@ -36,7 +36,7 @@ skills, and contribute to the cybersecurity community.
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn profile URL here.
+- 💼 LinkedIn: www.linkedin.com/in/karthik-ashwa-82bbab425 
 - 💻 GitHub: [@ashwakarthik](https://github.com/ashwakarthik)
 
 ---
