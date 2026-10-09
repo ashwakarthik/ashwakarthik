@@ -1,4 +1,9 @@
+<div align="center">
+  <img src="assets/ashwa-header.svg" width="100%" alt="ASHWA.EXE — Multidisciplinary Technologist"/>
+</div>
+
 # 👋 Hey, I'm Ashwa Karthik
+
 
 ### 🧠 Polymath in Progress | Engineer | Cybersecurity Enthusiast | AI Explorer
 
