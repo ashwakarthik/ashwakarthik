@@ -10,16 +10,13 @@
 
 *Exploring systems. Building intelligence. Securing technology.*
 
-</div>
+<br/>
 
-*Exploring systems. Building intelligence. Securing technology.*
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black" />
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 </div>
-
 ---
 
 ## 🧠 About Me
