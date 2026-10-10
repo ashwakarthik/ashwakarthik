@@ -12,9 +12,12 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity"/> <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 </div>
+
 ---
 
 ## 🧠 About Me
@@ -42,13 +45,13 @@ technologies, and building practical solutions.
 ### 💻 Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode" alt="Programming and development technologies"/>
 </p>
 
 ### 🛡️ Cybersecurity & Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
 </p>
 
 **Areas of exploration:** Linux, Kali Linux, reconnaissance,
@@ -76,20 +79,39 @@ security assessment, networking, and penetration testing.
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ ASHWA CYBERRECON
+<h3>🛡️ ASHWA CYBERRECON</h3>
 
-A modular Python-based cybersecurity reconnaissance framework.
+<p>
+A modular Python-based reconnaissance framework for authorized
+cybersecurity assessments and research.
+</p>
 
-**Focus:** Python · Reconnaissance · Security Assessment
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00FF9C?style=flat-square&logo=kalilinux&logoColor=black" alt="Cybersecurity"/>
+</p>
+
+<a href="https://github.com/ashwakarthik/CyberRecon">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CyberRecon repository"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤖 AI Assistant
+<h3>🤖 AI Assistant</h3>
 
-An experimental assistant exploring local AI models and automation.
+<p>
+An experimental project exploring local AI models,
+assistant development, and intelligent automation.
+</p>
 
-**Focus:** Python · AI · Local LLMs
+<p>
+<img src="https://img.shields.io/badge/AI-7B61FF?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+<p><i>Repository link to be added after verification.</i></p>
 
 </td>
 </tr>
@@ -97,27 +119,41 @@ An experimental assistant exploring local AI models and automation.
 <tr>
 <td width="50%" valign="top">
 
-### 📧 Email Threat Scanner
+<h3>📧 Email Threat Scanner</h3>
 
-An email threat-analysis workflow built using n8n.
+<p>
+An email threat-analysis workflow exploring automated
+security checks using n8n.
+</p>
 
-**Focus:** Automation · Email Security · Threat Analysis
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Email_Security-0A9396?style=flat-square" alt="Email Security"/>
+</p>
+
+<p><i>Repository link to be added when published.</i></p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🚘 CAN-Sentinel
+<h3>🚘 CAN-Sentinel</h3>
 
-An automotive ECU intrusion detection project focused on suspicious CAN traffic.
+<p>
+An automotive ECU intrusion detection project focused on
+analyzing potentially suspicious CAN traffic.
+</p>
 
-**Focus:** Automotive Security · CAN · Intrusion Detection
+<p>
+<img src="https://img.shields.io/badge/Automotive_Security-0A9396?style=flat-square" alt="Automotive Security"/>
+<img src="https://img.shields.io/badge/Intrusion_Detection-FF6B6B?style=flat-square" alt="Intrusion Detection"/>
+</p>
+
+<p><i>Project in progress.</i></p>
 
 </td>
 </tr>
 </table>
-
-> Project descriptions reflect the intended scope. Add repository
-> links and verified implementation details as the projects mature.
 
 ---
 
@@ -125,13 +161,24 @@ An automotive ECU intrusion detection project focused on suspicious CAN traffic.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwakarthik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=ashwakarthik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  alt="GitHub statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwakarthik&layout=compact&theme=transparent&hide_border=true" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwakarthik&layout=compact&theme=transparent&hide_border=true"
+  alt="Most-used programming languages"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ashwakarthik&theme=transparent&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=ashwakarthik&theme=transparent&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -139,11 +186,11 @@ An automotive ECU intrusion detection project focused on suspicious CAN traffic.
 
 ## 🔭 Currently Exploring
 
-- Cybersecurity and penetration testing
-- AI-assisted security analysis
-- Linux internals and networking
-- Automation and intelligent systems
-- Embedded systems and automotive security
+- 🛡️ Cybersecurity and penetration testing
+- 🤖 AI-assisted security analysis
+- 🐧 Linux internals and networking
+- ⚙️ Automation and intelligent systems
+- 🚘 Embedded systems and automotive security
 
 ---
 
@@ -168,11 +215,11 @@ An automotive ECU intrusion detection project focused on suspicious CAN traffic.
 <div align="center">
 
 <a href="https://github.com/ashwakarthik">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/karthik-ashwa-82bbab425">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
