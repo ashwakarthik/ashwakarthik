@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ashwa Karthik 👋</h1>
 
 <h3 align="center">
-  Cybersecurity Engineer in Progress · AI Explorer · Builder
+  Cybersecurity Ethical Hacking · AI Explorer · Builder
 </h3>
 
 <p align="center">
