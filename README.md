@@ -51,9 +51,6 @@ Exploring locally run AI models and assistant automation.
 ### 📧 Email Threat Scanner
 An email threat-analysis workflow built using n8n.
 
-### 🚗 CAN-Sentinel
-An automotive ECU intrusion detection project
-currently under development.
 
 ## 🧠 My Philosophy
 
