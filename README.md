@@ -4,7 +4,13 @@
 
 ### `karthikashwa.exe`
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+Explorer;Python+Developer;Electronics+%26+Robotics" alt="Typing SVG" />
+
 **Cybersecurity · Artificial Intelligence · Engineering**
+
+*Exploring systems. Building intelligence. Securing technology.*
+
+</div>
 
 *Exploring systems. Building intelligence. Securing technology.*
 
