@@ -1,79 +1,97 @@
-<div align="center">
-  <img src="assets/ashwa-header.svg" width="100%" alt="ASHWA.EXE — Multidisciplinary Technologist"/>
-</div>
+<h1 align="center">Hey, I'm Ashwa Karthik 👋</h1>
 
-# 👋 Hey, I'm Ashwa Karthik
+<h3 align="center">
+  Cybersecurity Engineer in Progress · AI Explorer · Builder
+</h3>
 
+<p align="center">
+  <i>
+    Exploring systems. Building intelligence. Securing technology.
+  </i>
+</p>
 
-### 🧠 Polymath in Progress | Engineer | Cybersecurity Enthusiast | AI Explorer
+<p align="center">
+  <a href="https://github.com/ashwakarthik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Cybersecurity-Red?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-> Exploring the intersection of technology, engineering,
-> intelligence, and innovation.
+---
 
-I'm a multidisciplinary technology enthusiast passionate
-about understanding how things work, building practical
-solutions, and exploring ideas across different fields.
+## 🧠 About Me
 
-My interests span cybersecurity, artificial intelligence,
-software development, electronics, robotics, networking,
-and experimental engineering.
+I'm a technology enthusiast exploring the intersection of
+**cybersecurity, artificial intelligence, and engineering.**
 
-I believe the most interesting innovations happen when
-different disciplines come together.
+I enjoy understanding how systems work, experimenting with
+new technologies, and building practical solutions.
 
-## 🧭 My Seven Domains
+- 🛡️ Exploring cybersecurity and ethical hacking
+- 🤖 Experimenting with AI models and intelligent assistants
+- 💻 Building tools with Python and automation
+- ⚡ Exploring electronics, embedded systems, and robotics
+- 🐧 Learning Linux, networking, and security assessment
+- 🔬 Learning by building, breaking, testing, and improving
 
-🛡️ Cybersecurity & Ethical Hacking
-🤖 Artificial Intelligence & Automation
-💻 Software Development & Programming
-⚙️ Electronics & Embedded Systems
-🔬 Robotics & Intelligent Automation
-🌐 Networking & Linux Systems
-🚀 Innovation, Research & Experimentation
+> My goal is to combine security, intelligence, and engineering
+> to build useful and secure technologies.
 
-## 🛠️ Technologies I Explore
+---
 
-- Languages: Python, C, C++
-- Systems: Linux, Kali Linux
-- Security: Reconnaissance, security assessment
-- AI: AI tools, assistant development, automation
-- Electronics: Arduino, ESP32, sensors
-- Automation: Python scripting, APIs, n8n
+## ⚙️ Technologies I Work With
 
-## 🚀 Selected Projects
+| Domain | Technologies |
+|---|---|
+| Programming | Python, C, C++ |
+| Operating Systems | Linux, Kali Linux |
+| Cybersecurity | Reconnaissance, security testing |
+| Artificial Intelligence | AI tools, local LLMs, AI assistants |
+| Automation | Python scripting, APIs, n8n |
+| Electronics | Arduino, ESP32, sensors |
+| Development | Git, GitHub, VS Code |
 
-### 🔎 ASHWA CYBERRECON
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ ASHWA CYBERRECON
 A modular Python-based cybersecurity reconnaissance framework.
 
 ### 🤖 AI Assistant
-Exploring locally run AI models and assistant automation.
+An experimental AI assistant exploring locally run language
+models and intelligent automation.
 
 ### 📧 Email Threat Scanner
 An email threat-analysis workflow built using n8n.
 
-
-## 🧠 My Philosophy
-
-Learn across disciplines.
-Build through experimentation.
-Connect ideas.
-Solve meaningful problems.
-
-## 🎯 Current Mission
-
-To become a multidisciplinary engineer who combines
-cybersecurity, AI, and engineering to build useful,
-innovative, and secure technologies.
+### 🚘 CAN-Sentinel
+An automotive ECU intrusion detection system exploring
+suspicious Controller Area Network traffic.
 
 ---
 
-*"Curiosity across disciplines. Innovation without boundaries."*
+## 🔭 Currently Exploring
 
-### 🤝 Let's Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/karthik-ashwa-82bbab425 
-- 💻 GitHub: [@ashwakarthik](https://github.com/ashwakarthik)
+- Cybersecurity and penetration testing
+- AI-powered security analysis
+- Linux internals and networking
+- Automation and intelligent systems
+- Embedded systems and automotive security
 
 ---
 
-*"Building skills. Breaking assumptions. Securing systems."* 🔐## Hi there 👋
+## 🧩 My Philosophy
+
+> Learn across disciplines.
+> Build through experimentation.
+> Connect ideas.
+> Solve meaningful problems.
+
+---
+
+<p align="center">
+  <b>Building skills. Breaking assumptions. Securing systems. 🔐</b>
+</p>
