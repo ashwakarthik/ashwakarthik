@@ -1,23 +1,18 @@
-<h1 align="center">Hey, I'm Ashwa Karthik 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Cybersecurity Ethical Hacking · AI Explorer · Builder
-</h3>
+# 👋 Hey, I'm Ashwa Karthik
 
-<p align="center">
-  <i>
-    Exploring systems. Building intelligence. Securing technology.
-  </i>
-</p>
+### `karthikashwa.exe`
 
-<p align="center">
-  <a href="https://github.com/ashwakarthik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Cybersecurity-Red?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+**Cybersecurity · Artificial Intelligence · Engineering**
+
+*Exploring systems. Building intelligence. Securing technology.*
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black" />
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
 
 ---
 
@@ -26,57 +21,103 @@
 I'm a technology enthusiast exploring the intersection of
 **cybersecurity, artificial intelligence, and engineering.**
 
-I enjoy understanding how systems work, experimenting with
-new technologies, and building practical solutions.
+I enjoy understanding how systems work, experimenting with new
+technologies, and building practical solutions.
 
-- 🛡️ Exploring cybersecurity and ethical hacking
+- 🛡️ Exploring ethical hacking and cybersecurity
 - 🤖 Experimenting with AI models and intelligent assistants
-- 💻 Building tools with Python and automation
+- 💻 Building Python tools and automation workflows
 - ⚡ Exploring electronics, embedded systems, and robotics
 - 🐧 Learning Linux, networking, and security assessment
-- 🔬 Learning by building, breaking, testing, and improving
+- 🔬 Learning by building, testing, and experimenting
 
 > My goal is to combine security, intelligence, and engineering
-> to build useful and secure technologies.
+> to build useful, innovative, and secure technologies.
 
 ---
 
-## ⚙️ Technologies I Work With
+## ⚙️ Technical Arsenal
 
-| Domain | Technologies |
-|---|---|
-| Programming | Python, C, C++ |
-| Operating Systems | Linux, Kali Linux |
-| Cybersecurity | Reconnaissance, security testing |
-| Artificial Intelligence | AI tools, local LLMs, AI assistants |
-| Automation | Python scripting, APIs, n8n |
-| Electronics | Arduino, ESP32, sensors |
-| Development | Git, GitHub, VS Code |
+### 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode" />
+</p>
+
+### 🛡️ Cybersecurity & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+**Areas of exploration:** Linux, Kali Linux, reconnaissance,
+security assessment, networking, and penetration testing.
+
+### 🤖 AI & Automation
+
+- Local language models and AI assistants
+- Python scripting and API integrations
+- Workflow automation using n8n
+- AI-assisted development and experimentation
+
+### ⚡ Electronics & Embedded Systems
+
+- Arduino and ESP32
+- Sensors and microcontrollers
+- Embedded systems and robotics
+- Hardware-software integration
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🛡️ ASHWA CYBERRECON
 A modular Python-based cybersecurity reconnaissance framework.
 
+**Focus:** Reconnaissance · Python · Modular architecture
+
 ### 🤖 AI Assistant
-An experimental AI assistant exploring locally run language
-models and intelligent automation.
+An experimental AI assistant exploring local language models
+and intelligent automation.
+
+**Focus:** AI · Python · Local LLMs
 
 ### 📧 Email Threat Scanner
 An email threat-analysis workflow built using n8n.
 
+**Focus:** Automation · Email security · Threat analysis
+
 ### 🚘 CAN-Sentinel
 An automotive ECU intrusion detection system exploring
 suspicious Controller Area Network traffic.
+
+**Focus:** Automotive security · CAN traffic · Intrusion detection
+
+> Project descriptions reflect the intended scope. Add repository
+> links and verified implementation details as the projects mature.
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwakarthik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwakarthik&layout=compact&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ashwakarthik&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🔭 Currently Exploring
 
 - Cybersecurity and penetration testing
-- AI-powered security analysis
+- AI-assisted security analysis
 - Linux internals and networking
 - Automation and intelligent systems
 - Embedded systems and automotive security
@@ -85,13 +126,40 @@ suspicious Controller Area Network traffic.
 
 ## 🧩 My Philosophy
 
-> Learn across disciplines.
-> Build through experimentation.
-> Connect ideas.
-> Solve meaningful problems.
+<div align="center">
+
+**Learn across disciplines.**
+
+**Build through experimentation.**
+
+**Connect ideas.**
+
+**Solve meaningful problems.**
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Building skills. Breaking assumptions. Securing systems. 🔐</b>
-</p>
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ashwakarthik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/karthik-ashwa-82bbab425">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Building skills. Breaking assumptions. Securing systems.
+
+*Curiosity across disciplines. Innovation without boundaries.*
+
+</div>
