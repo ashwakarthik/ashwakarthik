@@ -70,29 +70,51 @@ security assessment, networking, and penetration testing.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ ASHWA CYBERRECON
+
 A modular Python-based cybersecurity reconnaissance framework.
 
-**Focus:** Reconnaissance · Python · Modular architecture
+**Focus:** Python · Reconnaissance · Security Assessment
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 AI Assistant
-An experimental AI assistant exploring local language models
-and intelligent automation.
 
-**Focus:** AI · Python · Local LLMs
+An experimental assistant exploring local AI models and automation.
+
+**Focus:** Python · AI · Local LLMs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📧 Email Threat Scanner
+
 An email threat-analysis workflow built using n8n.
 
-**Focus:** Automation · Email security · Threat analysis
+**Focus:** Automation · Email Security · Threat Analysis
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚘 CAN-Sentinel
-An automotive ECU intrusion detection system exploring
-suspicious Controller Area Network traffic.
 
-**Focus:** Automotive security · CAN traffic · Intrusion detection
+An automotive ECU intrusion detection project focused on suspicious CAN traffic.
+
+**Focus:** Automotive Security · CAN · Intrusion Detection
+
+</td>
+</tr>
+</table>
 
 > Project descriptions reflect the intended scope. Add repository
 > links and verified implementation details as the projects mature.
